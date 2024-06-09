@@ -4,6 +4,6 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=AuroraEternum&color=1c1c1c" alt="Aurora's Views" />
 
-Hi! I'm Aurora Eternum, but you can call me Aurora!
-I'm an 18 year old college student in Computer Science and Maths, currently doing my second semester!
-I'm currently learing Java, and I've done some C#, some C++ and a little bit of Python!
+Hey. Aurora Here.
+Student who gave up on coding, and is now trying to learn again.
+Wish me luck. Thanks.
